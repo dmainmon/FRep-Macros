@@ -9,6 +9,9 @@ Arm Research "Quick Swap" example
 
 Create unlimted quick swaps in Lords Mobile using this FRep "trace" macro example. This FRep "Trace" macro is a "Quick Swap" example for Lords Mobile. You must first install FRep from the Google Playstore to use this macro.
 
+Guild Gifts
+
+This macro will collect guild gifts automatically. You must be on the Guild Gifts view (the one with all the gifts to collect from monster kills). 
 
 Shelter 12
 
