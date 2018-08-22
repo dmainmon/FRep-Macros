@@ -1,5 +1,8 @@
 # FRep-Macros
-Lords Mobile Automation Macros for use with FRep on and Android
+Lords Mobile Automation Macros for use with FRep on an Android device.
+Tested with Samsung 6.
+
+FRep is available from the Google Play Store.
 
 
 Arm Research "Quick Swap" example
